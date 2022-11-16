@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Java<br>👯 I’m looking to collaborate on interesting company<br>🤝 I’m looking for help with Java<br>
+🌱 I’m currently learning Java<br>👯 I’m looking to collaborate on interesting company<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
